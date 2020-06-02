@@ -1,0 +1,24 @@
+<template>
+ <div>
+    home  component
+ </div>
+</template>
+
+<script>
+ export default {
+  name: '',
+  data () {
+   return {
+
+   }
+  },
+  components: {
+
+  }
+ }
+</script>
+
+<style scoped>
+
+ 
+</style>

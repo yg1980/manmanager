@@ -1,10 +1,11 @@
 <template>
   <div id="app">
-    asdfasdfadfafafafa
-    大事发生方式
+    <router-view/>
   </div>
 </template>
 
 <style>
-
+#app{
+  height: 100%;
+}
 </style>
